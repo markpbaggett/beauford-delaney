@@ -1,0 +1,16 @@
+{
+  "prod": {
+    "label": { "none": ["Beauford Delaney Notebooks and Sketchbooks"] },
+    "collection": "https://digital.lib.utk.edu/assemble/collection/collections/delaney",
+    "featured": [
+    ],
+    "metadata": ["Date", "Subject"]
+  },
+  "dev": {
+    "label": { "none": ["Beauford Delaney Notebooks and Sketchbooks"] },
+    "collection": "https://digital.lib.utk.edu/assemble/collection/collections/delaney",
+    "featured": [
+    ],
+    "metadata": ["Date", "Subject"]
+  }
+}
