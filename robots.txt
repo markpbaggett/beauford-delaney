@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://markpbaggett.github.io
+
+# Sitemaps
+Sitemap: https://markpbaggett.github.io/sitemap.xml
