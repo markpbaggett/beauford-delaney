@@ -40,11 +40,11 @@ const defaultOptions = {
   },
   informationPanel: {
     open: false,
-    renderAbout: false,
-    renderToggle: false,
+    renderAbout: true,
+    renderToggle: true,
   },
   showTitle: false,
-  showIIIFBadge: false,
+  showIIIFBadge: true,
 };
 
 const Viewer = ({
